@@ -1,0 +1,13 @@
+local i = MogIt.base.AddSlot("-- |cFFFF0000World Bosses|r --", ...)
+local i = MogIt.base.AddSlot("Alleria Windrunner", ...)
+
+i(74039, 1, "", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74038, 2, "", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74037, 3, "", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74036, 4, "", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74035, 5, "", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74034, 6, "", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74033, 7, "", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74032, 8, "", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74031, 9, "", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74030, 10, "", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
