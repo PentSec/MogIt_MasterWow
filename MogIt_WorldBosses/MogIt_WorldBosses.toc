@@ -1,0 +1,13 @@
+﻿## Interface: 30300
+## Title: MogIt_WorldBoss
+## Notes: Adds custom items to the MogIt database
+## Author: Sitoz
+## Version: 2.0
+## LoadOnDemand: 1
+## RequiredDeps: MogIt
+## X-MogItModuleVersion: 2
+
+MasterBosses.lua
+Alleria.lua
+Tiger.lua
+vip1boss.lua

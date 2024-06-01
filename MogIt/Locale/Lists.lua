@@ -11,9 +11,9 @@ L.source = {
     [5] = L["Crafted"],
     [6] = L["Achievement"],
     [7] = L["Code Redemption"],
-    [8] = L["VIP VENDOR"],
-    [9] = L["GOLD VENDOR"],
-    [10] = L["LEGENDARY VENDOR"]
+    [8] = L["Donor Vendor"],
+    [9] = L["Gold Vendor"],
+    [10] = L["Legendary Vendor"]
 };
 
 L.diffs = {

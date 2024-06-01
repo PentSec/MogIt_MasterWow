@@ -1,5 +1,5 @@
 ﻿## Interface: 30300
-## Title: MogIt_MasterWow
+## Title: MogIt_GoldVendor
 ## Notes: Adds custom items to the MogIt database
 ## Author: Sitoz
 ## Version: 2.0
@@ -7,11 +7,14 @@
 ## RequiredDeps: MogIt
 ## X-MogItModuleVersion: 2
 
-Mogit_Master.lua
-MasterBosses.lua
-Alleria.lua
-Tiger.lua
-vip1boss.lua
-GoldVendor.lua
-LegendaryVendor.lua
-donorvendor.lua
+Cosmetics.lua
+Warblades.lua
+Warglaives.lua
+Shirts.lua
+Swords.lua
+Axes.lua
+maces.lua
+Polearms.lua
+Daggers.lua
+Ranges.lua
+shields.lua

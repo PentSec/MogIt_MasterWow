@@ -853,7 +853,6 @@ end
 mog.menu.options = mog.menu:CreateMenu(L["Options"]);
 mog.menu.options:SetScript("OnClick", mog.ToggleOptions);
 mog.menu.options:SetPoint("LEFT", mog.menu.preview, "RIGHT", 5, 0);
--- //
 
 local help = mog.menu:CreateMenu(L["Help"])
 -- help:SetNormalFontObject(GameFontHighlight)
@@ -877,6 +876,15 @@ help:SetScript("OnEnter", function(self)
     end
     GameTooltip:AddLine(" ");
     GameTooltip:AddLine("Alt + Mouseover item = GameTooltip");
+    GameTooltip:AddLine(L["------------------------------"]);
+    GameTooltip:AddLine(" ");
+    GameTooltip:AddLine(L["How to preview Backpacks/Cosmetics models"], 1, 0, 0);
+    GameTooltip:AddLine(" ");
+    GameTooltip:AddLine(L["Commands in Backpacks menu"]);
+    GameTooltip:AddLine(L["Place the cursor over the item inside the backpacks module"], 1, 1, 1);
+    GameTooltip:AddLine(L["If you press |cffFF0000CTRL-C|r above the item a link will open that you can"], 1, 1, 1);
+    GameTooltip:AddLine(L["copy and paste into your browser that will search for the item in"], 1, 1, 1);
+    GameTooltip:AddLine(L["the wow head DB. and you can have a 3D view of the item."], 1, 1, 1);
     GameTooltip:Show()
     self.nt:SetTexture(1, 0.82, 0, 1);
 end);

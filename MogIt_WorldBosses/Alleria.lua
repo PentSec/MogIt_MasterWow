@@ -1,4 +1,3 @@
-local i = MogIt.base.AddSlot("-- |cFFFF0000World Bosses|r --", ...)
 local i = MogIt.base.AddSlot("Alleria Windrunner", ...)
 
 i(74039, 1, "", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
