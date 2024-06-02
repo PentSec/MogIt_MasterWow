@@ -1,5 +1,5 @@
 local i = MogIt.base.AddSlot("Alleria Windrunner", ...)
-
+-- i(itemID,display,"name",itemLevel,quality,levelReq,faction,class,bind,slot,sheath,source,sourceid,zone,sourceinfo) 
 i(74039, 1, "", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
 i(74038, 2, "", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
 i(74037, 3, "", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)

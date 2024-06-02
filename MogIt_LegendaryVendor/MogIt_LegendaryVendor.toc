@@ -7,7 +7,6 @@
 ## RequiredDeps: MogIt
 ## X-MogItModuleVersion: 2
 
-Cosmetics.lua
 Warblades.lua
 Warglaives.lua
 Shirts.lua
@@ -18,3 +17,4 @@ Polearms.lua
 Daggers.lua
 Ranges.lua
 shields.lua
+Staffs.lua

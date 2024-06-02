@@ -205,8 +205,8 @@ local defaults = {
         tooltipHeight = 300,
         tooltipMouse = false,
         tooltipDress = false,
-        --	tooltipRotate = false,
-        --	tooltipMog = false,
+        tooltipRotate = false,
+        tooltipMog = false,
         tooltipMod = "None"
         --	tooltipCustomModel = false,
     }
@@ -222,7 +222,11 @@ function mog.LoadSettings()
     end
 
     mog.tooltip:SetSize(mog.db.profile.tooltipWidth, mog.db.profile.tooltipHeight);
-    -- if mog.db.profile.tooltipRotate then mog.tooltip.rotate:Show() else mog.tooltip.rotate:Hide() end
+    if mog.db.profile.tooltipRotate then
+        mog.tooltip.rotate:Show()
+    else
+        mog.tooltip.rotate:Hide()
+    end
 
     mog.scroll:update();
 
