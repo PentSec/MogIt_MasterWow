@@ -1,7 +1,7 @@
 v1.7c 12/12/2021
 - Fixed LUA error on uncached wishlist items..
-- testing for TUI lazyaddons asd asd
-- testing for TUI lazyaddons asd asd
+- testing for TUI lazyaddons sdfg sdfg
+- testing for TUI lazyaddons sdfg asd
 - testing for TUI lazyaddons asd asd
 
 --------------------------------------------------------------------------------------------------------
